@@ -1,5 +1,9 @@
 # Catallax - Decentralized Contract Work Platform
 
+Learn more at [catallax.network](https://catallax.network)
+
+Live [demo here](https://npub1cyqjvgjver3v9affrr64tmsetxwyf0jf4sumsnmj3zsel5md4ynqku9kka.shakespeare.to/catallax)
+
 A comprehensive UI implementation for testing the Catallax protocol (NIP-3400), which enables decentralized contract work with escrow arbitration on Nostr.
 
 ## Features
